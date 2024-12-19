@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const greeting = "Это тестовый проект Конина Юлия Викторовна";
+  const greeting = "плюс вайб";
 
   console.log('This is App ');
   return (
